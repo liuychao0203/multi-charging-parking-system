@@ -1,0 +1,50 @@
+﻿# Vivado鐢熸垚鏂囦欢鍜岀洰褰?*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.sim/
+*.srcs/
+
+# Vivado宸ョ▼鏂囦欢
+*.xpr
+
+# Vivado鐢熸垚鐨勬枃浠?*.jou
+*.log
+*.pb
+*.rpx
+*.rpt
+*.dcp
+*.vdi
+*.bit
+*.bin
+*.wdf
+*.wpc
+*.html
+*.vds
+
+# 鑴氭湰鏂囦欢锛圴ivado鐢熸垚鐨勶級
+*.js
+*.sh
+*.bat
+*.do
+*.f
+*.tcl
+
+# IP鏍哥敓鎴愭枃浠?*.xci
+*.prj
+
+# 浠跨湡鏂囦欢
+*.ini
+*.opt
+
+# 鍘嬬缉鏂囦欢
+*.zip
+
+# 涓存椂鏂囦欢
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
