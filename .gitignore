@@ -1,0 +1,56 @@
+# Vivado生成文件和目录
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.sim/
+*.srcs/
+
+# Vivado工程文件
+*.xpr
+
+# Vivado生成的文件
+*.jou
+*.log
+*.pb
+*.rpx
+*.rpt
+*.dcp
+*.vdi
+*.bit
+*.bin
+*.wdf
+*.wpc
+*.html
+*.vds
+
+# 脚本文件（Vivado生成的）
+*.js
+*.sh
+*.bat
+*.do
+*.f
+*.tcl
+
+# IP核生成文件
+*.xci
+*.prj
+
+# 仿真文件
+*.ini
+*.opt
+
+# 压缩文件
+*.zip
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+
+
